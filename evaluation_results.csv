@@ -1,0 +1,3 @@
+setup,round,accuracy
+Centralized,1,71.15384615384616
+FL+DP+SecAgg,1,74.19871794871794

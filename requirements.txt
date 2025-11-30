@@ -1,0 +1,26 @@
+# Core Deep Learning and Data Handling
+torch==2.2.0
+torchvision==0.17.0
+numpy==1.26.4
+pandas==2.2.1
+
+# Web Server (Serverless Aggregator Simulation)
+Flask==3.0.3
+requests==2.31.0
+
+# Visualization and Reporting
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Image Processing
+Pillow==10.2.0
+
+# Environment and OS Utilities
+python-dotenv==1.0.1
+tqdm==4.66.2
+
+# For running subprocess commands
+subprocess32==3.5.4 ; python_version < '3.9'
+
+# Optional (for CSV, JSON, path handling)
+scipy==1.12.0
